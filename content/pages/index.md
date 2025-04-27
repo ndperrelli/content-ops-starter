@@ -41,7 +41,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Full Day Tour to Machu Picchu from Cusco
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
