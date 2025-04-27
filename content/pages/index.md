@@ -42,7 +42,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Full Day Tour to Machu Picchu from Cusco
-        subtitle: Numbers Done
+        subtitle: ''
         text: >
           Machu Picchu, dichiarato patrimonio culturale dell'umanità
           dall'UNESCO, è considerato uno dei luoghi di interesse mondiale più
