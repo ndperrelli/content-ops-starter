@@ -37,7 +37,7 @@ sections:
           foreste, raccogliamo vento, luce e silenzi.Lasciamo tracce. Portiamo
           storie.Benvenuti nella nostra odissea.
         price: ''
-        details: per month
+        details: ''
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
