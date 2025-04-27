@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: 'Radicati, liberi, istintivi'
     plans:
-      - title: Professional
+      - title: ''
         price: $99
         details: per month
         description: >-
