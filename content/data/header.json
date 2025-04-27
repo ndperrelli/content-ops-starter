@@ -13,17 +13,17 @@
     },
     "primaryLinks": [
         {
-            "label": "PricingSpiriti in Viaggio",
-            "url": "/pricing",
+            "label": "Blog",
+            "altText": "Blog",
+            "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
+            "label": "PricingSpiriti in Viaggio",
+            "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
