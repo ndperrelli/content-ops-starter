@@ -19,7 +19,7 @@ sections:
           rito, un viaggio selvaggio, ancestrale.Camminiamo tra sabbia e
           foreste, raccogliamo vento, luce e silenzi.Lasciamo tracce. Portiamo
           storie.Benvenuti nella nostra odissea.
-        details: per month
+        details: ''
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
