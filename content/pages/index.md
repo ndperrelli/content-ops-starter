@@ -32,12 +32,12 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
+      type: TitleBlock
       text: Key Benefits
       color: text-dark
       styles:
         self:
           textAlign: center
-      type: TitleBlock
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
@@ -47,8 +47,15 @@ sections:
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
+        image:
+          type: ImageBlock
+          url: /images/icon1.svg
+          altText: Lightning bolt symbol on red background
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
         actions: []
-        elementId: null
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
@@ -61,25 +68,18 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
-        image:
-          type: ImageBlock
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          url: /images/icon1.svg
-          styles:
-            self:
-              borderRadius: x-large
-      - title: 20x
+      - type: FeaturedItem
+        title: 20x
         subtitle: The Job Stuff
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
+          type: ImageBlock
           url: /images/icon2.svg
           altText: Featured icon two
           elementId: ''
-          type: ImageBlock
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -93,18 +93,18 @@ sections:
             flexDirection: row
             textAlign: left
             justifyContent: center
-        type: FeaturedItem
-      - title: 200%
+      - type: FeaturedItem
+        title: 200%
         subtitle: Faster
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
+          type: ImageBlock
           url: /images/icon3.svg
           altText: Featured icon three
           elementId: ''
-          type: ImageBlock
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -116,9 +116,9 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-        type: FeaturedItem
     actions:
-      - label: Get started
+      - type: Button
+        label: Get started
         altText: ''
         url: /
         showIcon: false
@@ -126,14 +126,13 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-        type: Button
     badge:
+      type: Badge
       label: This is a badge
       color: text-primary
       styles:
         self:
           textAlign: center
-      type: Badge
     elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
