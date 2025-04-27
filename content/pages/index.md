@@ -43,10 +43,29 @@ sections:
       - type: FeaturedItem
         title: Full Day Tour to Machu Picchu from Cusco
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Machu Picchu, dichiarato patrimonio culturale dell'umanità
+          dall'UNESCO, è considerato uno dei luoghi di interesse mondiale più
+          importanti da visitare in PERÙ. Trascorrete un'intera giornata
+          visitando la cittadella Inca di Machu Picchu durante questa escursione
+          di un giorno intero con tutto incluso Circondatevi di natura e
+          immergetevi negli affascinanti misteri che questa meravigliosa
+          cittadella Inca racchiude. Accompagnati dai servizi di una guida
+          professionista a Machu Picchu
+
+          -Escursione di un'intera giornata a Machu Picchu (una delle 7
+          meraviglie) da Cusco
+
+          -Godetevi uno straordinario tour in treno che rivela eccellenti vedute
+          dei paesaggi.
+
+          -Trascorrete abbastanza tempo con la vostra guida professionale nella
+          fortezza di MachuPicchu.
+
+          -Tutti i biglietti d'ingresso e i trasporti sono inclusi nel tour.
+
+          -Trasporto di andata e ritorno senza problemi dal vostro hotel a
+          Cusco.
         image:
           type: ImageBlock
           url: /images/icon1.svg
