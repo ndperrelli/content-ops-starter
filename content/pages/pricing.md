@@ -36,7 +36,7 @@ sections:
           rito, un viaggio selvaggio, ancestrale.Camminiamo tra sabbia e
           foreste, raccogliamo vento, luce e silenzi.Lasciamo tracce. Portiamo
           storie.Benvenuti nella nostra odissea.
-        price: $99
+        price: ''
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
