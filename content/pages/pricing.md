@@ -29,7 +29,13 @@ sections:
     subtitle: ''
     plans:
       - type: PricingPlan
-        title: Professional
+        title: >-
+          Nilaria è la nostra isola invisibile, nata dall’unione dei nostri nomi
+          e dei nostri sogni.È la nostra tribù di due: due spiriti in cammino,
+          due fuochi sotto lo stesso cielo.È un diario di bordo, ma anche un
+          rito, un viaggio selvaggio, ancestrale.Camminiamo tra sabbia e
+          foreste, raccogliamo vento, luce e silenzi.Lasciamo tracce. Portiamo
+          storie.Benvenuti nella nostra odissea.
         price: $99
         details: per month
         description: >-
