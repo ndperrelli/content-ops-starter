@@ -10,7 +10,7 @@ sections:
     subtitle: ''
     text: ''
     actions:
-      - label: Get started
+      - label: Experience
         altText: ''
         url: /
         showIcon: false
