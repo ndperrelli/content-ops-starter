@@ -42,7 +42,7 @@ sections:
           - Feature four
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: '/images/ChatGPT Image 24 apr 2025, 16_10_14.png'
           altText: Pricing plan 2
         actions:
           - type: Button
