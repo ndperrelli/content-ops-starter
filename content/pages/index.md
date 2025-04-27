@@ -33,7 +33,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Key Benefits
+      text: Experience
       color: text-dark
       styles:
         self:
