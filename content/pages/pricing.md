@@ -12,7 +12,13 @@ sections:
     subtitle: 'Radicati, liberi, istintivi'
     plans:
       - title: ''
-        price: $99
+        price: >-
+          Nilaria è la nostra isola invisibile, nata dall’unione dei nostri nomi
+          e dei nostri sogni.È la nostra tribù di due: due spiriti in cammino,
+          due fuochi sotto lo stesso cielo.È un diario di bordo, ma anche un
+          rito, un viaggio selvaggio, ancestrale.Camminiamo tra sabbia e
+          foreste, raccogliamo vento, luce e silenzi.Lasciamo tracce. Portiamo
+          storie.Benvenuti nella nostra odissea.
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
