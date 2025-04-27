@@ -43,8 +43,8 @@ sections:
       - type: FeaturedItem
         title: Full Day Tour to Machu Picchu from Cusco
         subtitle: Numbers Done
-        text: >
-          Machu Picchu, dichiarato patrimonio culturale dell'umanità
+        text: >+
+          ###### Machu Picchu, dichiarato patrimonio culturale dell'umanità
           dall'UNESCO, è considerato uno dei luoghi di interesse mondiale più
           importanti da visitare in PERÙ. Trascorrete un'intera giornata
           visitando la cittadella Inca di Machu Picchu durante questa escursione
@@ -66,6 +66,7 @@ sections:
 
           -Trasporto di andata e ritorno senza problemi dal vostro hotel a
           Cusco.
+
         image:
           type: ImageBlock
           url: /images/icon1.svg
