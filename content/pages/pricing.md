@@ -39,8 +39,7 @@ sections:
         price: ''
         details: ''
         description: ''
-        features:
-          - Feature one
+        features: []
         image:
           type: ImageBlock
           url: '/images/ChatGPT Image 24 apr 2025, 16_10_14.png'
